@@ -1,5 +1,5 @@
 # JavaCalculatorProject
-It is a simple calculator , It used to do multiple operations Additon,Substraction,Multiplication,Division.
+It is a Software .It is a simple calculator , It used to do multiple operations Additon,Substraction,Multiplication,Division.
 Black color theam.
 
 # Language
